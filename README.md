@@ -29,7 +29,7 @@ However:
 
 I structured the dashboard in three analytical layers:
 
-1️⃣ Executive Snapshot
+1️. Executive Snapshot
 
 Designed KPI cards to provide a quick performance overview:
 
@@ -47,7 +47,7 @@ Designed KPI cards to provide a quick performance overview:
 
 This allows decision-makers to instantly assess profitability and efficiency.
 
-2️⃣ Platform-Level Performance Comparison
+2️. Platform-Level Performance Comparison
 
 To identify performance gaps, I analyzed:
 
@@ -59,7 +59,7 @@ To identify performance gaps, I analyzed:
 
 This revealed which platforms were scaling efficiently and which were consuming budget without proportional returns.
 
-3️⃣ Time-Based Trend Analysis
+3️. Time-Based Trend Analysis
 
 A monthly revenue trend was implemented to:
 
@@ -71,7 +71,7 @@ A monthly revenue trend was implemented to:
 
 Understand performance fluctuations over time
 
-4️⃣ Interactive Exploration
+4️.  Interactive Exploration
 
 Slicers were added for:
 
@@ -135,7 +135,7 @@ CTR = DIVIDE([Total Clicks], [Total Impressions], 0)
 ```
 Weighted metrics were used instead of simple averages to ensure analytical accuracy.
 
-🛠 Tools Used
+## Tools Used
 
 - Power BI
 
@@ -148,5 +148,5 @@ Weighted metrics were used instead of simple averages to ensure analytical accur
 
 
 
-📷 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Screenshot](Dashboard.png)
